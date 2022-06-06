@@ -6,7 +6,7 @@
     width: 25vw;
       height: 20vh;
       border: 1px solid black;
-      margin: 2px
+      margin: 2px;
 }
 
 .detailView {
@@ -14,8 +14,5 @@
       height: 20vh;
       border:1px solid black;
       margin: '2px';
-      color: white
+      color: white;
 }
-
-
-
